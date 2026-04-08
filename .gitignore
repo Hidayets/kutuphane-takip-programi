@@ -1,0 +1,9 @@
+# Tum kodlari gizle - GitHub'a yuklenmez
+*
+
+# Sadece README ve .gitignore yuklensin
+!README.md
+!.gitignore
+
+# Release klasoru
+release/
